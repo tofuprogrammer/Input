@@ -20,9 +20,9 @@ class Program
         Console.Write(" = ");
         double multiplication = firstUserNumber * secondUserNumber;
         Console.WriteLine(multiplication);
-        Console.Write(firstUserNumber);
-        Console.Write(" - ");
         Console.Write(secondUserNumber);
+        Console.Write(" - ");
+        Console.Write(firstUserNumber);
         Console.Write(" = ");
         double subtraction = secondUserNumber - firstUserNumber;
         Console.WriteLine(subtraction);
